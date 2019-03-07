@@ -4,15 +4,16 @@
 
 
 1. Yoshua Bengio, Godfather of Deep learning.
-2. François Chollet, Author of Keras, keras.io
-3. Jeff Dean, lead Google.ai
-4. Geoffrey Hinton, Godfather of Deep Learning.
-5. Matthew Honnibal and Ines Montani, Explosion AI  
-6. Andrej Karpathy, Director of AI at Tesla.
-7. Yan, Lecun,  Director of AI Research, Facebook.
-8. Tomas Mikolov, Facebook AI.
-9. Andrew Ng, former head Google Brain, former VP & Chief Scientist at Baidu
-10. Radim Řehůřek, founder of Gensim.
+2. Jason Brownlee, PhD
+3. François Chollet, Author of Keras, keras.io
+4. Jeff Dean, lead Google.ai
+5. Geoffrey Hinton, Godfather of Deep Learning.
+6. Matthew Honnibal and Ines Montani, Explosion AI  
+7. Andrej Karpathy, Director of AI at Tesla.
+8. Yan, Lecun,  Director of AI Research, Facebook.
+9. Tomas Mikolov, Facebook AI.
+10. Andrew Ng, former head Google Brain, former VP & Chief Scientist at Baidu
+11. Radim Řehůřek, founder of Gensim.
 
 
 
