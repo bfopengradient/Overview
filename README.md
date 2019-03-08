@@ -1,6 +1,6 @@
 ### Overview
 
-###### I have tried to cite all relevant researchers in the work contained in my repos. Generally there is a small group of researchers whose work I draw from regularly and who may or may not be mentioned in each repo. They include but are not limited to the following. 
+I have tried to cite all relevant researchers in the work contained in my repos. Generally there is a small group of researchers whose work I draw from regularly and who may or may not be mentioned in each repo. They include but are not limited to the following. 
 
 
 1. Yoshua Bengio. 
