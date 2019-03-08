@@ -4,7 +4,7 @@
 
 
 1. Yoshua Bengio, Godfather of Deep learning.
-2. Jason Brownlee, PhD.
+2. Jason Brownlee, PhD. Founder Machine learning mastery.
 3. François Chollet, Author of Keras, keras.io.
 4. Jeff Dean, lead Google.ai.
 5. Geoffrey Hinton, Godfather of Deep Learning.
