@@ -12,7 +12,7 @@
 7. Andrej Karpathy, Director of AI at Tesla.
 8. Yan, Lecun, Director of AI research, Facebook.
 9. Tomas Mikolov, Facebook AI.
-10. Andrew Ng.
+10. Andrew Ng
 11. Radim Řehůřek, founder of Gensim.
 
 
