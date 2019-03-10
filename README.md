@@ -4,7 +4,7 @@ I have tried to cite all relevant researchers in the work contained in my repos.
 
 
 1. Yoshua Bengio. 
-2. Jason Brownlee, PhD. Founder machine learning mastery.
+2. Jason Brownlee, Founder machine learning mastery.
 3. François Chollet, Author of Keras, keras.io.
 4. Jeff Dean,  
 5. Geoffrey Hinton.
