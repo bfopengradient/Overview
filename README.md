@@ -12,7 +12,8 @@ I have tried to cite all relevant researchers in the work contained in my repos.
 8. Yan, Lecun.
 9. Tomas Mikolov; Facebook AI.
 10. Andrew Ng.
-11. Radim Řehůřek; Founder of Gensim.
+11. Srikantra Patra
+12. Radim Řehůřek; Founder of Gensim.
 
 
 
