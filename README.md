@@ -7,13 +7,13 @@ I have tried to cite all relevant researchers in the work contained in my repos.
 3. François Chollet 
 4. Jeff Dean.  
 5. Geoffrey Hinton.
-6. Matthew Honnibal and Ines Montani 
+6. Matthew Honnibal and Ines Montani. 
 7. Andrej Karpathy 
 8. Yan, Lecun.
-9. Tomas Mikolov 
+9. Tomas Mikolov. 
 10. Andrew Ng.
-11. Srikantra Patra
-12. Radim Řehůřek 
+11. Srikantra Patra.
+12. Radim Řehůřek. 
 
 
 
