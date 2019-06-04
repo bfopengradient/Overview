@@ -13,7 +13,7 @@ I have tried to cite all relevant researchers in the work contained in my repos.
 9. Tomas Mikolov 
 10. Andrew Ng 
 11. Srikantra Patra 
-12. Radim Řehůřek 
+12. Radim Řehůřek. 
 
 
 
