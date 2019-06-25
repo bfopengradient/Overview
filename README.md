@@ -1,6 +1,6 @@
 ### Overview
 
-I have tried to cite all relevant researchers in the work contained in my repos. Generally there is a small group of researchers whose work I draw from regularly and who may or may not be mentioned in each repo. They include but are not limited to the following. 
+Generally there is a small group of researchers whose work I draw from and admire. In many cases their work has been pivotal to the field of ML and data science. I may not always cite them in my repos but I am grateful for their invaluable research. 
 
 1. Yoshua Bengio 
 2. Jason Brownlee 
