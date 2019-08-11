@@ -10,7 +10,7 @@ Generally there is a small group of researchers whose work I draw from regularly
 5. Geoffrey Hinton
 6. Matthew Honnibal and Ines Montani 
 7. Andrej Karpathy 
-8. Yan Lecun 
+8. Yann Lecun 
 9. Tomas Mikolov 
 10. Andrew Ng 
 11. Srikantra Patra 
