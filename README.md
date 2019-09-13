@@ -22,7 +22,7 @@ In the repos that follow the data is both structured and unstructured. Most of t
 
 For more information on Open Gradient please see the following link, www.opengradient.com
 
-
+Regards
 BF
 
  
