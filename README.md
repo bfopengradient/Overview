@@ -18,7 +18,7 @@ They are as follows:
 12. Radim Řehůřek 
 
 
-In the repos that follow the data is both structured and unstructured. Most of the repos are focused on the financial services industry. Not all models are machine learning based and some are traditional with no self learning mechanism. Many of the repos are test areas to assess how different models behave. The goal in production is to find the least complex model that best fits the data whether that be a machine learning algorithm or a traditional statistical model. 
+In the repos that follow the data is mostly focused on the financial services industry. Not all models are machine learning based and some are traditional with no self learning mechanism. All of the repos are test areas to assess how different models behave. The goal in production is to find the least complex model that best fits the data whether that be a machine learning algorithm or a traditional statistical model. 
 
 For more information on Open Gradient please see the following link, www.opengradient.com
 
