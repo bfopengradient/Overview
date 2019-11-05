@@ -8,7 +8,7 @@ They are as follows:
 2. Jason Brownlee 
 3. François Chollet 
 4. Jeff Dean 
-5. Derek Green
+5. Assit. Prof. Derek Green, Computer science Dept UCD.
 5. Geoffrey Hinton
 6. Matthew Honnibal and Ines Montani 
 7. Andrej Karpathy 
