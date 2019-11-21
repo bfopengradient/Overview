@@ -22,8 +22,7 @@ In the repos that follow the data is mostly focused on the financial services in
 
 For more information on Open Gradient please email client.services@opengradient.com.
 
-Regards
-
+Regards 
 BF
 
  
