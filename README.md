@@ -20,6 +20,7 @@ They are as follows:
 
 In the repos that follow the data is mostly focused on the financial services industry. There is a mixture of machine learning algorithms and traditional statistical models. All of the repos are test areas to assess how different models behave. The goal in production is to find the least complex model that best fits the data whether that be a machine learning algorithm or a traditional statistical model. 
 
+BF
 
 
  
