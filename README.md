@@ -18,7 +18,7 @@ They are as follows:
 11. Srikantra Patra 
 12. Radim Řehůřek 
 
-All of the repos are test areas to assess how different algorithms behave on different datasets. There is a mixture of machine learning algorithms and traditional statistical models.The goal in production is to find the least complex model that best fits the data whether that be a machine learning algorithm or a traditional statistical model. 
+Most repos relate to financial services data of some kind or another. All of the repos are test areas to assess how different algorithms behave on different datasets. There is a mixture of machine learning algorithms and traditional statistical models. I am interested to see how traditional and more modern models can be used together or when one may be more appropriate to use given the data and the context.
 
 BF
 
