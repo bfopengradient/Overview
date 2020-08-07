@@ -18,7 +18,7 @@ They are as follows:
 11. Srikantra Patra 
 12. Radim Řehůřek 
 
-All of the repos are test areas to assess how different algorithms behave on different datasets. There is a mixture of machine learning algorithms and traditional statistical models. I am interested to see how traditional and more modern models can be used together or when one may be more appropriate to use given the data and the context.
+All of the repos are test areas to assess how different algorithms behave on different datasets. Much of the data used is from the financial services domain. There is a mixture of machine learning algorithms and traditional statistical models. I am interested to see how traditional and more modern models can be used together or when one may be more appropriate to use given the data and the context.
 
 BF
 
