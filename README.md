@@ -15,7 +15,7 @@ They are as follows:
 8. Yann LeCun 
 9. Tomas Mikolov 
 10. Andrew Ng 
-11. Srikantra Patra 
+11. Srikantra Patra, GA Sydney
 12. Radim Řehůřek 
 
 All of the repos are test areas to assess how different algorithms behave on different datasets. There is a mixture of machine learning algorithms and traditional statistical models. I am interested to see how traditional and more modern models can be used together or when one may be more appropriate to use given the data and the context.
