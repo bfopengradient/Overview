@@ -1,6 +1,6 @@
 ### Overview
 
-There is a group of researchers within data science and machine learning whose work I draw from regularly. In many cases their work has been pivotal to the field of data science, natural language processing(NLP) and machine learning(ML). I may not always cite them in my repos but I am grateful for their invaluable research. 
+There is a group of researchers within data science and machine learning whose work I draw from regularly. In many cases their work has been pivotal to the field of data science, natural language processing(NLP) and machine learning(ML). Some are less well known. I may not always cite them in my repos but I am grateful for their invaluable research. 
 
 They are as follows:
 
