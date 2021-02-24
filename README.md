@@ -20,6 +20,7 @@ They are as follows:
 
 All of the repos are test areas to assess how different algorithms behave on different datasets. There is a mixture of machine learning algorithms and traditional statistical models.  
 
+Regards
 BF
 
 
